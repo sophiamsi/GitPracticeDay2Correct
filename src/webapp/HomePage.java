@@ -6,5 +6,6 @@ public class HomePage {
 
         System.out.println("Navigation menu");
         System.out.println("Home page updated with logo ");
+        System.out.println("Footer");
     }
 }
